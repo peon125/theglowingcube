@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6f77e7b4ab927914aa683a15eb0d3c83
+timeCreated: 1496230585
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Emotion Engine
+  fontNames:
+  - Emotion Engine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3706e8d0dbcf55b46899f13a6cc57f8b, type: 3}
+  - {fileID: 12800000, guid: 582bc1d8650815044903bbb8353a6454, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
